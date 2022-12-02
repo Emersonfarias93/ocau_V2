@@ -3,6 +3,7 @@
 ## Curso de Programaçao para Web.
 
 **Equipe:** 
+
         >Emerson de Farias Santos
         >Cledson Barreto Araújo
         >João Bosco leite neto
@@ -33,8 +34,13 @@ b. Importante (Gravar e-mail cadastrado no banco de dados)  ✅
 a. Usar template do tipo Admin. ✅
 
 **Material de apoio**
+
 https://getbootstrap.com/docs/5.2/getting-started/introduction/G
+
 https://icons.getbootstrap.com/
+
 https://bootstrapmade.com/
+
 https://startbootstrap.com/themes
+
 https://themes.getbootstrap.com/
